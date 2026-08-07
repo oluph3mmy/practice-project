@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#This are the itemized groceries required for the forthcoming M&G Session.
+
+1. Doughs
+2. Pizza boxes
+3. Sharwarma
+4. Smoothies and cocktails
+5. Servietes and coasters
